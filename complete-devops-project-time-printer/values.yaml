@@ -9,5 +9,7 @@ ingress:
   enabled: false
 serviceAccount:
   enabled: false
-autoScalling:
+autoscaling:
+  enabled: false
+httpRoute:
   enabled: false
